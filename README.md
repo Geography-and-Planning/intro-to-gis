@@ -1,5 +1,4 @@
 # Introduction to GIS in Python
 
-Introduction to GIS in Python
+Zhanchao Yang
 
-Non-traditional course notes
