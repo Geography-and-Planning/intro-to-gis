@@ -2,7 +2,7 @@
 
 Zhanchao Yang
 
-**Important disclaimer : This repository is personal notes of Zhanchao Yang from Dr. Qiusheng Wu's GEOG312 course: Introduction to GIS programming in Python course at University of Tennessee. All rights reserved to original authors. Original [course website](https://geog-312.gishub.org) and [Github repo](https://github.com/giswqs/geog-312)**
+**Important disclaimer and acknowledgement: This repository is personal class notes of Zhanchao Yang from Dr. Qiusheng Wu's GEOG312 course: Introduction to GIS programming in Python course at The University of Tennessee. All rights, including lab and class materials, are reserved for the original authors. Original [course website](https://geog-312.gishub.org) and [Github repo](https://github.com/giswqs/geog-312)**
 
 ## Course Introduction from Dr. Wu
 
