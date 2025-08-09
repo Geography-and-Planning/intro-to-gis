@@ -18,7 +18,7 @@ By the end of the course, you will have a robust understanding of Python program
 
 ### Course Resources
 
-All course materials, including lecture videos, are freely available on the course website: [geog-312.gishub.org](https://geog-312.gishub.org).
+All course materials, including lecture videos, are freely available on the [course website](https://geog-312.gishub.org).
 
 ### Lecture Videos
 
